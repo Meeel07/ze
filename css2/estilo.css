@@ -1,0 +1,50 @@
+h1 {
+    text-align: center;
+}
+body {
+    background-color:rgb(247, 114, 165);
+    color: deeppink;
+}
+#momento1 {
+    position: absolute;
+    width: 320px;
+    height: 260px;
+    top: 100px;
+    left: 100px;
+}
+#momento2 {
+    position: absolute;
+    width: 420px;
+    height: 320px;
+    top: 300px;
+    right:540px;
+}
+#momento3 {
+    position: absolute;
+    width: 280px;
+    height: 260px;
+    top: 100px;
+    right: 100px;
+}
+#setinha1 {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 590px;
+    right: 100px;
+}
+#setinha2 {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 590px;
+    left: 100px;
+    rotate:200px;
+}
+#coracao2 {
+    position: absolute;
+    top: 400px;
+    right: 200px;
+    width: 200px;
+    height: 200px;
+}

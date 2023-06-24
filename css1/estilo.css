@@ -1,0 +1,75 @@
+h1{
+  text-align: center
+  }
+
+body {
+  background-color: rgb(251, 182, 195);
+  color:rgb(211, 0, 127)
+  }
+#gatinhos {
+  position: absolute;
+  width:300px;
+  height:300px;
+  top: 450px;
+  left:200px;
+}
+#coracoes {
+  width:300px;
+  height: 300px;
+}
+#floramarela{
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  top: 545px;
+  right: 300px;
+}
+#florrosa{
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  top: 545px;
+  right: 160px;
+}
+#florvermelha{
+  position: absolute;
+  width:150px;
+  height: 150px;
+  top:595px;
+  right:10px;
+}
+#girassol{
+  position: absolute;
+  width: 270px;
+  height: 270px;
+  top:475px;
+  right:450px;
+}
+#margarida{
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  top:545px;
+  right: 680px;
+}
+h2 {
+  text-align: center;
+  position: absolute;
+  bottom: 420px;
+  right: 510px;
+  font-size:50px;
+}
+#borboletas{
+  position: absolute;
+  width: 270px;
+  height: 270px;
+  top:60px;
+  right:130px;
+}
+#setinha1{
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  top: 370px;
+  right: 120px;
+}
